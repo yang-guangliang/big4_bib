@@ -1,7 +1,7 @@
 #### Statistics: How many papers are included ?
 
 
-| Conference     | Since(to now)  | Total Number of accepted papers | Accepted papers each year |  
+| Conference     | Since(to now)  | Total Number | Accepted papers each year |  
 | :------------- | :---- | :----------- | :------------------------ |
 | Usenix Security| 2010- | 281 | 46/year |
 | CCS            | 2010- | 544 | 90/year |
