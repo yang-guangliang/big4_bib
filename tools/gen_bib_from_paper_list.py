@@ -10,7 +10,7 @@ class Example(object):
                 pass
 
 prefix="""
-@article{helli,
+@article{,
 title={{
 """
 surfix="""
