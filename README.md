@@ -1,8 +1,3 @@
-##Introduction
-This repo is to share the list of accepted paper by the top-tier computer security conferences (Usenix Security, CCS, NDSS, S&P) since 2009. You can import them to any reference manager software to read it.
-
---
-
 #### Simple Statistics: How many papers are included ?
 
 
