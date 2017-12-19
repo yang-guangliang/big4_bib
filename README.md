@@ -3,7 +3,7 @@
 
 | Conference     | From..to.. | Total Number | Accepted papers each year |
 | :------------- | :-------- | :----------- | :------------------------ |
-| Usenix Security| 2010-2016 | 351 | 50/year |
-| CCS            | 2010-2015 | 544 | 90/year |
-| NDSS           | 2009-2016 | 333 | 41/year |
-| S&P            | 2009-2016 | 322 | 40/year |
+| Usenix Security| 2010-2017 | 441 | 55/year |
+| CCS            | 2010-2017 | 831 | 103/year |
+| NDSS           | 2009-2018 | 468 | 47/year |
+| S&P            | 2009-2017 | 382 | 42/year |
