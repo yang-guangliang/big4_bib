@@ -14,7 +14,8 @@ FORMAT_STR = '@ARTICLE{,\n' + \
              'author = "%s",\n' + \
              'title = "%s",\n' + \
              'journal = "NDSS",\n' + \
-             'year = "2016"\n}\n'
+             'year = "2018"\
+             n}\n'
 
 def main():
         if len(sys.argv) != 3:
@@ -33,6 +34,7 @@ def main():
                 title = all_lines[i].strip()
                 title = title.replace('"', '\'')
                 authors = all_lines[i + 1].strip()
+                authors.replace(" and ", ", ")
 
                 # authors = filter(None, authors.split(","))
                 authors = [x.strip() for x in authors.split(",") if x.strip()]
