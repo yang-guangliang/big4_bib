@@ -13,9 +13,8 @@ class Example(object):
 FORMAT_STR = '@ARTICLE{,\n' + \
              'author = "%s",\n' + \
              'title = "%s",\n' + \
-             'journal = "NDSS",\n' + \
-             'year = "2018"\
-             n}\n'
+             'journal = "S&P",\n' + \
+             'year = "2018"\n}\n'
 
 def main():
         if len(sys.argv) != 3:
